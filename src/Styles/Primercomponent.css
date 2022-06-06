@@ -1,0 +1,10 @@
+.App {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {    
+    display: inline-block;
+    justify-content: space-around;
+    padding: 20px;
+}

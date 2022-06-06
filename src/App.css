@@ -1,0 +1,39 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  margin: auto;
+  
+}
+h1, h2 {
+  text-align: center;
+
+}
+.first2 {
+  border: 1px solid blanchedalmond;
+  padding: 0;
+  border-radius: 10%;
+  font-family: roboto;
+  font-weight: 600;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.second2 {
+  border: 1px solid blanchedalmond;
+  padding: 25px;
+  border-radius: 10%;
+  font-family: roboto;
+  font-weight: 600;
+  font-size: 20px;
+}
+.contador {
+  width: 320px;
+
+}
+button {    
+  padding: 5px;
+}
